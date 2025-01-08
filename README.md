@@ -43,8 +43,13 @@ Few-shot learning aims to enable machine learning models to generalize effective
 
 2. **Architectures:**
    - **ResNet-50:** A 50-layer residual network optimized for deep learning tasks with strong gradient flow.
-   - **EfficientNet:** A compact, scalable model emphasizing efficiency by balancing depth, width, and resolution.
+     ### ResNet-50 Architecture
+![ResNet-50 Architecture](https://github.com/yourusername/yourrepository/raw/main/images/resnet50.png)
 
+   - **EfficientNet:** A compact, scalable model emphasizing efficiency by balancing depth, width, and resolution.
+     ### EfficientNet Architecture
+![EfficientNet Architecture](https://github.com/yourusername/yourrepository/raw/main/images/efficientnet.png)
+  
 3. **Evaluation Metrics:**
    - Accuracy, Precision, Recall, and F1-Score.
 
