@@ -1,6 +1,25 @@
 # Harnessing Effectiveness of ResNet-50 and EfficientNet for Few-Shot Learning
 
-This project explores the comparative performance of ResNet-50 and EfficientNet architectures for few-shot image classification tasks, using the VGG-Flowers dataset. The focus is on analyzing the accuracy, efficiency, and computational resource requirements of these architectures in scenarios with limited labeled data.
+## Abstract
+Inspired by the concept of human intelligencelearning and expanded upon with several examples – severalstep learning focused on computers that can classify images in
+a similar way. This article covers the interesting field of sparse
+learning, focusing on comparing its implementation using two
+popular deep learning networks: ResNet and EfficientNet. Little
+learning has the potential to be effective on tasks where obtaining
+large data sets is expensive or impossible; This allows machines to
+mimic humans’ ability to learn and expand from small samples,
+thus opening up possibilities in the field of various types of
+diagnostics, personalized recommendations, systems and robotics.
+Our main goal is to measure and compare the accuracy achieved
+by these models when learning on limited datasets and to show
+that EfficientNet achieves better accuracy when it requires fewer
+parameters and computational resources compared to ResNet50. We considered VGG-flowers dataset for comparison. Our
+results show that Narrow EfficientNet outperforms ResNet-50 in
+terms of overall accuracy (85.20% vs. 84.30%), precision (85.60%
+vs. 85.40%), recall (85.30% vs. 84.50%) and F1 acquisition
+(85.45% vs. 84.95%). This suggests that EfficientNet’s emphasis
+on computational efficiency and parallelism may provide a slight
+advantage on limited data.
 
 ## Overview
 
