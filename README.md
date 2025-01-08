@@ -40,7 +40,7 @@ Few-shot learning aims to enable machine learning models to generalize effective
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/vivekyeli7/Harnessing-Effectiveness-of-ResNet-50-and-EfficientNet-for-Few-Shot-Learning.git
    cd project-name
    ```
 2. Install dependencies:
