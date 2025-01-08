@@ -43,3 +43,21 @@ Few-shot learning aims to enable machine learning models to generalize effective
    git clone https://github.com/yourusername/project-name.git
    cd project-name
    ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the experiment:
+   ```bash
+   python main.py
+   ```
+
+## Results 
+EfficientNet demonstrates superior performance on limited datasets, emphasizing its suitability for low-resource environments. However, ResNet-50 remains a viable alternative in scenarios requiring extensive model depth.
+
+## References
+This project builds upon the methodologies and findings outlined in:
+
+Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.
+He, K., Zhang, X., Ren, S., Sun, J. (2016). Deep residual learning for image recognition.
+
