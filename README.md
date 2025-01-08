@@ -55,6 +55,37 @@ Few-shot learning aims to enable machine learning models to generalize effective
 | ResNet-50   | 84.30%   | 85.40%    | 84.50% | 84.95%   |
 | EfficientNet| 85.20%   | 85.60%    | 85.30% | 85.45%   |
 
+
+## Conclusion 
+Therefore, both ResNet-50 and EfficientNet are strong candidates for solving many image classification problems. Their
+unique architectural features and design make them useful
+tools for dealing with annotation events. However, a full
+understanding of their advantages and limitations is important
+for making informed decisions about their applications in
+specific areas.
+Our results show that EfficientNet outperforms ResNet-50
+in several benchmarks, especially when applied to the VGGFlowers dataset. This finding is consistent with EfficientNet’s
+design concept, which emphasizes achieving high performance
+standards with limited resources.
+EfficientNet’s ability to provide better results on the VGGflowers dataset proves that it can be a good solution for
+working with limited data. The integration method used by
+EfficientNet provides high performance in low-budget applications by simultaneously adjusting the depth, width and
+resolution of the network.
+While EfficientNet shows its power in some situations,
+it is important to remember: the choice between ResNet50 and EfficientNet depends on the specific requirements of
+the project at hand. With its deep and continuous structure,
+ResNet-50 can perform well in situations where capture is
+important. On the other hand, the effectiveness of EfficientNet
+is more evident in fewer areas.
+Ultimately choosing the best tool depends on a detailed
+understanding of the data, computing resources and performance characteristics. Our study advances this understanding
+by demonstrating the effectiveness of EfficientNet in analyzing
+multiple vaccines, giving clinicians and researchers a better
+understanding of photographic solutions in situations where
+information is limited.
+
+
+
 ## Usage
 
 1. Clone the repository:
