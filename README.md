@@ -40,7 +40,8 @@ Few-shot learning aims to enable machine learning models to generalize effective
 1. **Dataset:**  
    - **VGG-Flowers Dataset**: Contains 4242 images categorized into five classes: Chamomile, Tulip, Rose, Sunflower, and Dandelion.
    - Features include diverse resolutions and proportions, suitable for real-world classification tasks.
-    ![](https://github.com/vivekyeli7/Harnessing-Effectiveness-of-ResNet-50-and-EfficientNet-for-Few-Shot-Learning/raw/main/images/dataset.png)
+    <img src="https://github.com/vivekyeli7/Harnessing-Effectiveness-of-ResNet-50-and-EfficientNet-for-Few-Shot-Learning/raw/main/images/dataset.png" alt="ResNet-50 Architecture" width="500" height="300">
+
 
 2. **Architectures:**
    - **ResNet-50:** A 50-layer residual network optimized for deep learning tasks with strong gradient flow.
